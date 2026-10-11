@@ -1,10 +1,3 @@
-<!-- profile logo 个人资料徽标 -->
- <div>
-   
-   <!-- visitor statistics logo 访问量统计徽标 -->
-   <img src="https://komarev.com/ghpvc/?username=TheCyberWeaver&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
- </div>
-
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
@@ -14,8 +7,6 @@
     </a>
   </div>
 </div>
-
-<div><img src="https://github-profile-trophy.vercel.app/?username=TheCyberWeaver&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 <!--
 **TheCyberWeaver/TheCyberWeaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
