@@ -10,7 +10,7 @@
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=qy-lu&theme=tokyonight&hide_border=true"
     alt="GitHub contribution streak"
   />
 </div>
