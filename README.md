@@ -1,16 +1,18 @@
 <div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="https://www.thomas-hub.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);The%20Cyber%20Weaver&center=true&size=27" />
-    </a>
-  </div>
-</div>
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=qy-lu&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
+  <a href="https://www.thomas-hub.com/">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=70&lines=Hi%2C+I'm+Thomas.;I+weave+ideas+into+software."
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&repeat=true&width=620&height=70&lines=Hi%2C+I'm+Thomas.;I+weave+ideas+into+software."
+      />
+      <img
+        src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=620&height=70&lines=Hi%2C+I'm+Thomas.;I+weave+ideas+into+software."
+        alt="Hi, I'm Thomas. I weave ideas into software."
+      />
+    </picture>
+  </a>
 </div>
