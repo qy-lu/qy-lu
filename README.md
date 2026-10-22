@@ -3,14 +3,14 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&duration=1700&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&repeat=true&width=820&height=64&lines=Hi%2C+I%E2%80%99m+Thomas+Lu.;It+started+with+Hello%2C+World%21;Then+came+the+bugs.;Then+came+the+coffee.;Somehow%2C+this+became+a+hobby.;Things+have+escalated+since+then."
+        srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&duration=1700&pause=700&color=58A6FF&background=00000000&center=true&vCenter=true&repeat=true&width=820&height=64&lines=Hi%2C+I%E2%80%99m+Thomas+Lu.;I+wrote+Hello%2C+World%21;The+bugs+said+hello+back.;So+I+made+some+coffee.;Somehow%2C+this+became+a+hobby.;We%E2%80%99re+all+friends+now."
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&duration=1700&pause=1200&color=0969DA&background=00000000&center=true&vCenter=true&repeat=true&width=820&height=64&lines=Hi%2C+I%E2%80%99m+Thomas+Lu.;It+started+with+Hello%2C+World%21;Then+came+the+bugs.;Then+came+the+coffee.;Somehow%2C+this+became+a+hobby.;Things+have+escalated+since+then."
+        srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&duration=1700&pause=700&color=0969DA&background=00000000&center=true&vCenter=true&repeat=true&width=820&height=64&lines=Hi%2C+I%E2%80%99m+Thomas+Lu.;I+wrote+Hello%2C+World%21;The+bugs+said+hello+back.;So+I+made+some+coffee.;Somehow%2C+this+became+a+hobby.;We%E2%80%99re+all+friends+now."
       />
       <img
-        src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&duration=1700&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&repeat=true&width=820&height=64&lines=Hi%2C+I%E2%80%99m+Thomas+Lu.;It+started+with+Hello%2C+World%21;Then+came+the+bugs.;Then+came+the+coffee.;Somehow%2C+this+became+a+hobby.;Things+have+escalated+since+then."
+        src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&duration=1700&pause=700&color=58A6FF&background=00000000&center=true&vCenter=true&repeat=true&width=820&height=64&lines=Hi%2C+I%E2%80%99m+Thomas+Lu.;I+wrote+Hello%2C+World%21;The+bugs+said+hello+back.;So+I+made+some+coffee.;Somehow%2C+this+became+a+hobby.;We%E2%80%99re+all+friends+now."
         width="820"
         height="64"
         alt="Hi, I’m Thomas Lu."
