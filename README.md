@@ -15,4 +15,21 @@
       />
     </picture>
   </a>
+
+  <br />
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=qy-lu&theme=transparent&hide_current_streak=true&hide_longest_streak=true&card_width=320&card_height=170&sideNums=58A6FF&sideLabels=8B949E&dates=3FB950&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=qy-lu&theme=transparent&hide_current_streak=true&hide_longest_streak=true&card_width=320&card_height=170&sideNums=0969DA&sideLabels=57606A&dates=1A7F37&hide_border=true"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=qy-lu&theme=transparent&hide_current_streak=true&hide_longest_streak=true&card_width=320&card_height=170&sideNums=58A6FF&sideLabels=8B949E&dates=3FB950&hide_border=true"
+      alt="Total GitHub contributions"
+    />
+  </picture>
 </div>
