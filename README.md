@@ -3,17 +3,17 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&duration=2800&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&repeat=true&width=820&height=64&lines=Hi%2C+I+am+Thomas+Lu.;I+make+software.+Sometimes+it+even+works."
+        srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&duration=2800&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&repeat=true&width=820&height=64&lines=Hi%2C+I%E2%80%99m+Thomas+Lu.;It+started+with+Hello%2C+World%21;Then+came+the+bugs.;Then+came+the+coffee.;Somehow%2C+this+became+a+hobby.;Things+have+escalated+since+then."
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&duration=2800&pause=1200&color=0969DA&background=00000000&center=true&vCenter=true&repeat=true&width=820&height=64&lines=Hi%2C+I+am+Thomas+Lu.;I+make+software.+Sometimes+it+even+works."
+        srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&duration=2800&pause=1200&color=0969DA&background=00000000&center=true&vCenter=true&repeat=true&width=820&height=64&lines=Hi%2C+I%E2%80%99m+Thomas+Lu.;It+started+with+Hello%2C+World%21;Then+came+the+bugs.;Then+came+the+coffee.;Somehow%2C+this+became+a+hobby.;Things+have+escalated+since+then."
       />
       <img
-        src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&duration=2800&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&repeat=true&width=820&height=64&lines=Hi%2C+I+am+Thomas+Lu.;I+make+software.+Sometimes+it+even+works."
+        src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=36&duration=2800&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&repeat=true&width=820&height=64&lines=Hi%2C+I%E2%80%99m+Thomas+Lu.;It+started+with+Hello%2C+World%21;Then+came+the+bugs.;Then+came+the+coffee.;Somehow%2C+this+became+a+hobby.;Things+have+escalated+since+then."
         width="820"
         height="64"
-        alt="Hi, I am Thomas Lu."
+        alt="Hi, I’m Thomas Lu."
       />
     </picture>
   </a>
